@@ -1,1 +1,1 @@
-# cICD on Azure DevOps
+# CICD on Azure DevOps
